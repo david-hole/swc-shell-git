@@ -38,5 +38,6 @@ def main():
 #if this script is executed from the command line,
 #run the main() function;
 #if it's imported into another file, don't run the main() function.
+# Here is my change as a test
 if __name__ == '__main__':
     main()
