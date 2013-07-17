@@ -1,0 +1,6 @@
+data_drycreek_2013.txt
+B 67.0
+data_littlebearriver_2013.txt
+C 365.0
+data_loganriver2013.txt
+B 201.0
